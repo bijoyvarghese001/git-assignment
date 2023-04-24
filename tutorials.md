@@ -1,3 +1,9 @@
-I am Kamalvir Kaur.I studied all main git tutorials including branching,merging, rebasing and many more. 
-It was easy to solve all the questions as instructions were clear and concise from basic to advance levels.
- I learnt all the basics of git in an easy manner but if we want to check some step it will start again from beginning.
+I have learned below techniques of GIT by exploring the tutorials.
+
+Create a repository.
+Create a Branch
+Switch to a different branch
+Commit the code changes
+Push the code Changes
+Create a pull request.
+Merge the code from develop branch to master.
